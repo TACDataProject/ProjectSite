@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/TACDataProject/ProjectSite
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Embedded iframe
+
+<iframe src="https://nicklotito.shinyapps.io/tacdata/" style="width: 500px; height: 130px; border: 0px"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

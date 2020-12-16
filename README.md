@@ -4,9 +4,13 @@ You can use the [editor on GitHub](https://github.com/TACDataProject/ProjectSite
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Link to Data App
+
+Access the data app here: <https://nicklotito.shinyapps.io/tacdata/>
+
 ### Embedded iframe
 
-<iframe src="https://nicklotito.shinyapps.io/tacdata/" style="border: 0px"></iframe>
+<iframe src="https://nicklotito.shinyapps.io/tacdata/" style="height: 600px; border: 0px"></iframe>
 
 ### Markdown
 

@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Embedded iframe
 
-<iframe src="https://nicklotito.shinyapps.io/tacdata/" style="width: 500px; height: 130px; border: 0px"></iframe>
+<iframe src="https://nicklotito.shinyapps.io/tacdata/" style="border: 0px"></iframe>
 
 ### Markdown
 
